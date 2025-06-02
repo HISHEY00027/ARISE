@@ -1,0 +1,30 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react 01",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HISHEY00027/ARISE.git"
+  },
+  "keywords": [],
+  "author": "HISHEY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HISHEY00027/ARISE/issues"
+  },
+  "homepage": "https://github.com/HISHEY00027/ARISE#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 2 Chrome version",
+    "last 2 Firefox version"
+  ]
+}
