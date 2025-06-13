@@ -1,9 +1,11 @@
 {
-  "name": "react",
+  "name": "FRIEREN",
   "version": "1.0.0",
   "description": "react 01",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -20,6 +22,7 @@
     "parcel": "^2.15.2"
   },
   "dependencies": {
+    "@babel/preset-react": "^7.27.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
@@ -28,3 +31,4 @@
     "last 2 Firefox version"
   ]
 }
+
